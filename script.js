@@ -1,2 +1,1 @@
-const element = document.getElementById('table info');
-element.style.color = 'green';
+console.log(this is message from Script.js file)
