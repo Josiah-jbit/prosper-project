@@ -1,1 +1,1 @@
-console.log(this is message from Script.js file)
+console.log{...data:'this is the message from Script.js file!};
